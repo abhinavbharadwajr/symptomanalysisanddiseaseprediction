@@ -107,20 +107,15 @@ pip install matplotlib
 
 ## Running on Visual Studio / Visual Studio Code
 
-<details><summary> Get it Done with a Click </summary>
-<p>
+### Get it Done with a Click
 
 ***1. Search for the extension "Code Runner" in Visual Studio Code or you can head to [Microsoft Marketplace](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) or [GitHub](https://github.com/formulahendry/vscode-code-runner)***
 
 ***2. After instaling the Extension you can run the MainCode.py from the Run button that pops on the Top Right Corner of the Editor***
 
-</p>
-</details>
+### Terminal Way
 
-<details><summary> Terminal </summary>
-<p>
-
-***You can also Run the Code in Terminal as below :***
+***In Terminal you can also Run the Code as below :***
 ```
 & <path-to-python-installation-directory>/python.exe <path-to-code>/MainCode.py
 ```
