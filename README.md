@@ -12,7 +12,15 @@
 
 **Anaconda Suite**
 
-***Download the Anaconda Distribution for your compatible Version from [here](https://www.anaconda.com/distribution/#download-section)***
+***Download the Anaconda Distribution for your Working Platform (Windows / Linux / macOS) from [here](https://www.anaconda.com/products/distribution#Downloads)***
+
+**Visual Studio / Studio Code**
+
+***Alternatively, youcan use any other Code Editor - but make sure you have there belo lister Packages installed***
+
+[Numpy](https://en.wikipedia.org/wiki/NumPy) - NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. ...
+
+
 
 # Running the Project
 
