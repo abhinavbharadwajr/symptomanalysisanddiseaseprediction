@@ -98,6 +98,7 @@ pip install matplotlib
 ## Running on Anaconda
 
 ***1. Open Anaconada Distribution and find Spyder IDE.***
+
 ***2. Load the MainCode.py and run through the Code for any errors***
 
 > ***Note: Before Running, Make sure that both Data Set (Testing.csv and Training.csv) and MainCode.py reside under the same folder!***
